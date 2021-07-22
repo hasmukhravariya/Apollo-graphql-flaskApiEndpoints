@@ -1,0 +1,10 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.0.2"
+  }
+}
